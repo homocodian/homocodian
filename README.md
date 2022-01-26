@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ashish Singh
+- 👀 I’m interested in full stack and mobile development
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on full stack project
+- 📫 How to reach me ashishcbscboard@gmail.com
