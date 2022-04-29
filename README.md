@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Notes](https://github.com/Ashish-singh-dev/Notes)
+- 🔭 I’m currently working on [Docu Wallet](https://github.com/Ashish-singh-dev/docu-wallet)
 
 - 🌱 I’m currently learning **React Native**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashish-singh-dev](https://github.com/Ashish-singh-dev)
 
-- 💬 Ask me about **react and next**
+- 💬 Ask me about **react, next and react native**
 
 - 📫 How to reach me **ashishcbscboard@gmail.com**
 
