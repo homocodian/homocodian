@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Docu Wallet](https://github.com/Ashish-singh-dev/docu-wallet)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **NextJs projects**
 
