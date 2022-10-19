@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Docu Wallet](https://github.com/Ashish-singh-dev/docu-wallet)
+- 🔭 I’m currently working in Instadukan
 
 - 🌱 I’m currently learning **Flutter**
 
