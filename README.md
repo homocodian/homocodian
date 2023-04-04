@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **NextJS projects**
 
-- 👨‍💻 All of my projects are available at [GitHub]([https://github.com/Ashish-singh-dev](https://github.com/Ashish-singh-dev?tab=repositories))
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Ashish-singh-dev](https://github.com/Ashish-singh-dev?tab=repositories))
 
 - 💬 Ask me about **react, next and react native**
 
