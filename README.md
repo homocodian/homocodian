@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ashish Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working in Instadukan
+- 🔭 I’m currently working in [Notes](https://github.com/Ashish-singh-dev/notes)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **SolidJS**
 
-- 👯 I’m looking to collaborate on **NextJs projects**
+- 👯 I’m looking to collaborate on **NextJS projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ashish-singh-dev](https://github.com/Ashish-singh-dev)
+- 👨‍💻 All of my projects are available at [GitHub]([https://github.com/Ashish-singh-dev](https://github.com/Ashish-singh-dev?tab=repositories))
 
 - 💬 Ask me about **react, next and react native**
 
