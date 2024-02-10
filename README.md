@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in [Notes](https://github.com/Ashish-singh-dev/notes)
 
-- 🌱 I’m currently learning **SolidJS**
+- 🌱 I’m currently learning **Qwik**
 
 - 👯 I’m looking to collaborate on **NextJS projects**
 
@@ -11,12 +11,12 @@
 
 - 💬 Ask me about **react, next and react native**
 
-- 📫 How to reach me **homocodian@protonmail.com**
+- 📫 How to reach me **homocodian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ashish_s_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashish_s_dev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15352333/ashish-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15352333/ashish-singh" height="30" width="40" /></a>
+<a href="https://twitter.com/homocodian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="homocodian" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15352333/homocodian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15352333/homocodian" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
