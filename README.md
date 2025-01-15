@@ -14,7 +14,7 @@
 - 📫 How to reach me **homocodian@gmail.com**
 
 ## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15352333) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/homocodian)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/homocodian) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15352333)
 
 # 💻 Tech Stack:
 
