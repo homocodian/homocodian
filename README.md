@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in [Course Manage](https://www.coursemanage.xyz)
 
-- 🌱 I’m currently learning **Qwik**
+- 🌱 I’m currently learning **database** to build my own from scratch
 
 - 👯 I’m looking to collaborate on **NextJS projects**
 
